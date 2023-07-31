@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Graduated in physiotherapy and specialization in intensive care;<br>😊 I'm looking to collaborate on Web Social project; <br>🍃 I'm looking for help with my learning in frontend;<br>😍 I'm currently learning a course in frontend; <br>💬 Ask me about opportunities in that;
+🎓Graduated in physiotherapy and specialization in intensive care;<br>😊 I'm looking to collaborate on Web Social project; <br>🍃 I'm looking for help with my learning in frontend;<br>😍 I'm currently learning a frontend course; <br>💬 Ask me about opportunities in that;
 
 
 ## 🌐 Socials:
